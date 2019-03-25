@@ -9,7 +9,7 @@ The goal of my Swift playground was to create a bitcoin Visualization that suppo
 
 
 
-Andika Leonardo
+Andika Leonardo<br>
 Apple Developer Academy Indonesia 
 jakarta - March 2019
 
