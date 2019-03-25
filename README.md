@@ -1,5 +1,5 @@
 # Bitcoin visualization for Dummies
-[![Download](https://img.shields.io/github/downloads/JustinFincher/WWDC19Playground/total.svg)](https://github.com/JustinFincher/WWDC19Playground/releases)
+[![Download](https://img.shields.io/github/downloads/JustinFincher/WWDC19Playground/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
 ![WWDC2019 Header](https://i.imgur.com/hOdqkDh.jpg)
 Bitcoin is a cryptocurrency developed by Satoshi Nakamoto in 2009. Bitcoin is used as a digital payment system. Rather than use traditional currency. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.They all use an exciting technology called "Blockchain" that allows creating A purely peer-to-peer version of a decentralized network<br>
 Creation of Bitcoin addresses<br>
