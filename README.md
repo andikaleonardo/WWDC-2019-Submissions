@@ -1,4 +1,5 @@
 # Bitcoin: A Peer-to-Peer Electronic Cash System Visualization
+
 [![Download](https://img.shields.io/github/downloads/andikaleonardo/WWDC-2019-Scholarship-Submissions/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 [![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
@@ -14,8 +15,8 @@ In order to produce a Bitcoin address, a private key, which is a randomly select
 The goal of my Swift playground was to create a bitcoin Visualization that supported basic Blockchain operations. I wanted to show the power of Blockchain and how they work without getting too technical. Even though iOS has some built in Encryption and Blockchain libraries, I stayed away from them to prove it wasn’t a black box or super complex. I also thought it would be cool if I just did it myself.
 
 
-
-
+## Notes
+I submitted this Bitcoin visualization playground to this year's [Apple WWDC scholarship](https://developer.apple.com/wwdc/scholarships/) application. If Some people might have interest to use my playground to teach others about distributed ledger technologies, that's why I open sourced this project.
 
 Andika Leonardo<br>
 Apple Developer Academy Indonesia<br> 
